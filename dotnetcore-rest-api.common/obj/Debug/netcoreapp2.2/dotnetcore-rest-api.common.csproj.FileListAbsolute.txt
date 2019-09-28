@@ -1,0 +1,8 @@
+D:\MyProjectRepos\dotnetcore-rest-api.common\bin\Debug\netcoreapp2.2\dotnetcore-rest-api.common.deps.json
+D:\MyProjectRepos\dotnetcore-rest-api.common\bin\Debug\netcoreapp2.2\dotnetcore-rest-api.common.dll
+D:\MyProjectRepos\dotnetcore-rest-api.common\bin\Debug\netcoreapp2.2\dotnetcore-rest-api.common.pdb
+D:\MyProjectRepos\dotnetcore-rest-api.common\obj\Debug\netcoreapp2.2\dotnetcore-rest-api.common.csproj.CoreCompileInputs.cache
+D:\MyProjectRepos\dotnetcore-rest-api.common\obj\Debug\netcoreapp2.2\dotnetcore-rest-api.common.AssemblyInfoInputs.cache
+D:\MyProjectRepos\dotnetcore-rest-api.common\obj\Debug\netcoreapp2.2\dotnetcore-rest-api.common.AssemblyInfo.cs
+D:\MyProjectRepos\dotnetcore-rest-api.common\obj\Debug\netcoreapp2.2\dotnetcore-rest-api.common.dll
+D:\MyProjectRepos\dotnetcore-rest-api.common\obj\Debug\netcoreapp2.2\dotnetcore-rest-api.common.pdb

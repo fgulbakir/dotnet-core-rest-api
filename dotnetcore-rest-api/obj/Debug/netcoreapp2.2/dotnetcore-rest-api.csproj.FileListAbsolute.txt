@@ -1,0 +1,17 @@
+D:\MyProjectRepos\dotnetcore-rest-api\bin\Debug\netcoreapp2.2\dotnetcore-rest-api.deps.json
+D:\MyProjectRepos\dotnetcore-rest-api\bin\Debug\netcoreapp2.2\dotnetcore-rest-api.runtimeconfig.json
+D:\MyProjectRepos\dotnetcore-rest-api\bin\Debug\netcoreapp2.2\dotnetcore-rest-api.runtimeconfig.dev.json
+D:\MyProjectRepos\dotnetcore-rest-api\bin\Debug\netcoreapp2.2\dotnetcore-rest-api.dll
+D:\MyProjectRepos\dotnetcore-rest-api\bin\Debug\netcoreapp2.2\dotnetcore-rest-api.common.dll
+D:\MyProjectRepos\dotnetcore-rest-api\bin\Debug\netcoreapp2.2\dotnetcore-rest-api.common.pdb
+D:\MyProjectRepos\dotnetcore-rest-api\obj\Debug\netcoreapp2.2\dotnetcore-rest-api.csprojAssemblyReference.cache
+D:\MyProjectRepos\dotnetcore-rest-api\obj\Debug\netcoreapp2.2\dotnetcore-rest-api.csproj.CoreCompileInputs.cache
+D:\MyProjectRepos\dotnetcore-rest-api\obj\Debug\netcoreapp2.2\dotnetcore-rest-api.RazorAssemblyInfo.cache
+D:\MyProjectRepos\dotnetcore-rest-api\obj\Debug\netcoreapp2.2\dotnetcore-rest-api.RazorAssemblyInfo.cs
+D:\MyProjectRepos\dotnetcore-rest-api\obj\Debug\netcoreapp2.2\dotnetcore-rest-api.AssemblyInfoInputs.cache
+D:\MyProjectRepos\dotnetcore-rest-api\obj\Debug\netcoreapp2.2\dotnetcore-rest-api.AssemblyInfo.cs
+D:\MyProjectRepos\dotnetcore-rest-api\obj\Debug\netcoreapp2.2\dotnetcore-rest-api.RazorTargetAssemblyInfo.cache
+D:\MyProjectRepos\dotnetcore-rest-api\obj\Debug\netcoreapp2.2\dotnetcore-rest-api.csproj.CopyComplete
+D:\MyProjectRepos\dotnetcore-rest-api\bin\Debug\netcoreapp2.2\dotnetcore-rest-api.pdb
+D:\MyProjectRepos\dotnetcore-rest-api\obj\Debug\netcoreapp2.2\dotnetcore-rest-api.dll
+D:\MyProjectRepos\dotnetcore-rest-api\obj\Debug\netcoreapp2.2\dotnetcore-rest-api.pdb
